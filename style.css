@@ -81,7 +81,7 @@ nav .active {
     }
     nav ul li {
         display: block;
-        margin:30px ;
+        margin:700px ;
         line-height: 20px;
     }
     #check:checked~ ul{
