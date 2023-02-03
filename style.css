@@ -72,7 +72,7 @@ nav .active {
     }
     nav ul {
         width: 100%;
-        height: 100vh;
+        height: 2000px;
         background-color: blueviolet;
         position: fixed;
         top: 50px;
