@@ -14,6 +14,7 @@ nav{
     background-color: aquamarine;
     line-height: 50px;
     padding: 0px 80px;
+    posation :fixed;
 }
 nav .logo {
     float: left;
