@@ -86,6 +86,6 @@ nav .active {
     }
     #check:checked~ ul{
         left: 0;
-        transition: 1s;
+        transition: .5s;
     }
 }
