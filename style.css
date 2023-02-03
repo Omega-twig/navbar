@@ -49,8 +49,8 @@ nav .active {
     display: none; 
 }
 .checkbtn{
-    color: antiquewhite;
-    font-size: 50px;
+    color: black;
+    font-size: 25px;
     float: right;
     display: none;
 }
